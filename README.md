@@ -1,7 +1,3 @@
-# CryptoClustering
-Module 19 - Unsupervised Learning
-
-
 # Cryptocurrency Clustering with K-Means and PCA
 
 This repository contains the code and resources for a cryptocurrency clustering project using K-Means and Principal Component Analysis (PCA). The objective of this project is to analyze and cluster various cryptocurrencies based on their price changes over different time frames. We used dimensionality reduction with PCA to enhance clustering visualization and interpretation.
