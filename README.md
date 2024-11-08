@@ -11,8 +11,11 @@ This repository contains the code and resources for a cryptocurrency clustering 
 The project includes:
 - **Data Loading and Preprocessing**: Loading cryptocurrency data from a CSV file and scaling it with `StandardScaler`.
 - **Elbow Method**: Identifying the optimal number of clusters (`k`) using the Elbow method.
+![image](https://github.com/user-attachments/assets/390a3d88-149a-475c-9707-0e05a4d2b807)
 - **Clustering with K-Means**: Applying K-Means clustering to both the original scaled data and the PCA-reduced data.
 - **PCA for Dimensionality Reduction**: Using PCA to reduce the dataset to three principal components.
+![image](https://github.com/user-attachments/assets/c0bda6db-db66-4269-b2a7-11d00a91f7f0)
+
 - **Visualization**: Creating composite plots to compare clusters formed with the original and PCA-reduced data.
 
 ## File Structure
