@@ -47,7 +47,3 @@ All code for loading, transforming, and visualizing data can be found in the `Cr
 
 The clustering analysis identified distinct groupings of cryptocurrencies based on their 24-hour and 7-day price change percentages, both in the original feature space and the reduced PCA space. The use of PCA simplified the data structure, resulting in clearer cluster separations.
 
-## License
-
-This project is for educational purposes. Please review and respect any data or library licenses when using this code.
-
